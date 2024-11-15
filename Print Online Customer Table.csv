@@ -1,0 +1,53 @@
+CUSTOMER_ID,CUSTOMER_FNAME,CUSTOMER_LNAME,CUSTOMER_EMAIL,CUSTOMER_PHONE,ADDRESS_ID,CUSTOMER_CREATION_DATE,CUSTOMER_USERNAME,CUSTOMER_GENDER
+1,Jennifer,Wilson,jen_w@gmail.com,9776363306,909,NULL,jen_w,F
+2,Jackson,Davis,dave_jack@gmail.com,9886363307,910,NULL,dave_jack,M
+3,Komal,Choudhary,ch_komal@yahoo.co.IN,9178234526,911,NULL,komalc,F
+4,Wilfred,Jean,w_jean@gmail.com,9196257439,912,NULL,jeanw,M
+6,Anita,Goswami,agoswami@gmail.com,9873245623,914,NULL,anitag,F
+7,Ashwathi,Bhatt,ash_bhat@yahoo.co.IN,9773636307,915,NULL,abhatt,F
+8,Neetha,Castelina,neetha20@gmail.com,8196236362,916,NULL,cneeta,F
+9,Devika,Satish,devika_sa@gmail.com,9780945716,917,NULL,sdevika,F
+10,Bidhan,C.Roy,bidhanroy@yahoo.co.in,9886218583,918,NULL,bcroy,F
+11,Vikas,Jha,vikas.jha@gmail.com,9008812436,919,NULL,vjha,M
+12,Arul,Kumar.T,arulkumar@gmail.com,9902179894,920,NULL,akumar,M
+13,Ravi,Srinivasn,r_srinivasn@yahoo.co.in,9945466015,921,NULL,ravisri,M
+14,Avinash,Dutta,avinash.dutta@yahoo.co.in,9845100228,922,NULL,avdutta,M
+15,Jyoti,Sinha,jyotisinha@gmail.com,9987795155,923,NULL,jyo_s,F
+16,Vijay,Bollineni,vbollineni@gmail.com,7829012228,924,NULL,vbolli,M
+17,Prasad,Shetty,pshetty@yahoo.co.in,9731497821,925,NULL,shetty,M
+18,Suresh,Babu,sbabu@yahoo.co.in,9845969216,926,NULL,babu_s,M
+19,Bharti,Subhash,bhartis@gmail.com,9886870414,927,NULL,bha_subh,F
+20,Keshav,Jog,kesjog@yahoo.co.in,7942536789,928,NULL,jog_kes,M
+5,Ramya,Ravinder,ramya_r23@gmail.com,7732341567,913,NULL,rramya,F
+21,Alan,Silvestri,alan_silver@msn.com,9450465464,930,NULL,asilvestri,M
+22,Andrew,Stanton,andrew_stanton@yahoo.com,9806980253,931,NULL,astanton,M
+23,Anna,Pinnock,anna_pinnock@yahoo.com,8540548103,932,NULL,apinnock,F
+24,Brian,Grazer,brian_grazer@gmail.com,7599462567,933,NULL,bgrazer,M
+25,Bruno,Delbonnel,bruno_delbonnel@msn.com,9016687652,934,NULL,bdelbonnel,M
+26,Stephen,"E. Rivkin","stephen_e. rivkin@msn.com",9860111721,935,NULL,srivkin,M
+27,Mali,Finn,mali_finn@yahoo.com,7373475035,936,NULL,mfinn,F
+28,Sayyed,Faraj,sayyed_faraj@gmail.com,8556784235,937,NULL,sfaraj,M
+29,Francine,Maisler,francine_maisler@gmail.com,8440046170,938,NULL,fmaisler,F
+30,Anita,Kohli,anita_kohli@yahoo.com,8631526613,939,NULL,akohli,F
+31,Thomas,Newman,thomas_nman@yahoo.com,9539300577,940,NULL,tnewman,M
+32,Hans,Zimmer,hans_zimmer@yahoo.com,8338774317,941,NULL,hzimmer,M
+33,Niseema,Zimmer,niseemaz@yahoo.com,8179413840,941,NULL,ntalli,F
+34,Hans,Zimmer,hans_zimmer@gmail.com,9477272235,943,NULL,hzimmer2,M
+35,Thomas,Newman,thomas_newman@gmail.com,9526577840,944,NULL,tnewman2,M
+36,Michelle,"H. Shores",howard_shores@yahoo.com,8795007592,945,NULL,mshores,F
+37,James,"Newton Howard",james_nhoward@yahoo.com,9520246368,946,NULL,jhoward,M
+38,John,Lasseter,john_lass@gmail.com,9876356288,947,NULL,jlasseter,M
+39,Liz,Mullane,liz_mullane@gmail.com,7859695387,948,NULL,lmullane,F
+40,Paul,Haggis,paul_haggis@gmail.com,8332681111,949,NULL,phaggis,M
+41,Tharman,Shanmugaratnam,tharshan@yahoo.co.sg,8572898929,950,NULL,tshanmugaratnam,M
+42,Rebecca,Lim,reblim@msn.co.sg,8272438365,951,NULL,rlim,F
+43,Rajiv,Chandrasekaran,rajiv_chan@yahoo.co.in,7431699965,952,NULL,rchan,M
+44,Tanya,Chua,tanyac@singers.sg,5435935345,953,NULL,tchua,F
+45,Janvi,Rajiv,janvi_jha@msn.co.sg,8324529953,952,NULL,jrajiv,F
+46,"Tan Bee",Soo,tanbeesoo@yahoo.co.sg,8293092259,954,NULL,tsoo,F
+47,Yun,Zhu,yunzho@gmail.com,9407380992,955,NULL,yzhu,M
+48,"Wajdi bin Abdul",Majeed,wajdiabdul@gmail.com,9380937709,956,NULL,wabdul,M
+49,"Anbara binti",Mubarak,anmubarak@yahoo.co.my,7885803452,957,NULL,amubarak,F
+50,"Sri binti ",Yaakob,sribinti@yahoo.co.my,8193579391,958,NULL,sribinti,F
+51,"Ahmad Bin Gh",Azali,ahmad_bingh@yahoo.co.my,7348292313,959,NULL,abingh,M
+52,Suchirithaa,Ekanayake,suchiritha@msn.com,6538525924,960,NULL,sekanayake,F

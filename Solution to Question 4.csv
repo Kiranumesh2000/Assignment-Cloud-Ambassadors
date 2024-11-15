@@ -1,0 +1,53 @@
+CUSTOMER_ID,CUSTOMER_FULL_NAME,CITY,PINCODE,ORDER_ID,ORDER_DATE,PRODUCT_CLASS_DESC,PRODUCT_DESC,SUBTOTAL
+30,"Anita Kohli",Amherst,14228,10059,NULL,Electronics,"Cybershot DWC-W325 Camera",5300.00
+19,"Bharti Subhash",Dharmapuri,635897,10054,NULL,Clothes,"Infant Sleepwear Blue",500.00
+19,"Bharti Subhash",Dharmapuri,635897,10034,NULL,Bags,"Women Hand Bag",1600.00
+19,"Bharti Subhash",Dharmapuri,635897,10034,NULL,"Kitchen Items","Phils Wah Collection Juicer JM12",2029.00
+19,"Bharti Subhash",Dharmapuri,635897,10054,NULL,Bags,"HP ODC Laptop Bag 15.5",3390.00
+10,"Bidhan C.Roy",Hosur,635235,10070,NULL,Stationery,"4M Post It Pad 3.5",70.00
+10,"Bidhan C.Roy",Hosur,635235,10015,NULL,Stationery,"4M Post It Pad 3.5",175.00
+10,"Bidhan C.Roy",Hosur,635235,10070,NULL,Stationery,"Kasyo DJ-2100 Desktop Calculator",338.00
+10,"Bidhan C.Roy",Hosur,635235,10015,NULL,Watches,"Adidas Analog Watch",2295.00
+10,"Bidhan C.Roy",Hosur,635235,10015,NULL,Furnitures,"Supreme Fusion Cupboard 02TB",3000.00
+10,"Bidhan C.Roy",Hosur,635235,10015,NULL,Furnitures,"GreenWud CT-NO-PR Coffee Table",7000.00
+10,"Bidhan C.Roy",Hosur,635235,10015,NULL,Furnitures,"Foldable Premium Chair",16000.00
+24,"Brian Grazer",Abington,2351,10036,NULL,Stationery,"Cindy HMPOC Pencil Box (Multicolor)",160.00
+24,"Brian Grazer",Abington,2351,10036,NULL,Stationery,"Solo Exam SB-01 Writing Pad",350.00
+24,"Brian Grazer",Abington,2351,10047,NULL,Computer,"Logtech M244 Optical Mouse",450.00
+24,"Brian Grazer",Abington,2351,10035,NULL,"Kitchen Items","KitchAsst Siphon Coffee Maker 500 ml",1790.00
+24,"Brian Grazer",Abington,2351,10035,NULL,Furnitures,"Supreme Fusion Cupboard 02TB",3000.00
+24,"Brian Grazer",Abington,2351,10036,NULL,Computer,"External Hard Disk 500 GB",3500.00
+24,"Brian Grazer",Abington,2351,10035,NULL,Furnitures,"GreenWud CT-NO-PR Coffee Table",7000.00
+24,"Brian Grazer",Abington,2351,10047,NULL,Electronics,"Jocky Speaker Music System HT32",8900.00
+25,"Bruno Delbonnel",Avon,2322,10029,NULL,Books,"Exam Warriors",100.00
+25,"Bruno Delbonnel",Avon,2322,10055,NULL,Bags,"Hello Kitti Lunch Bag",199.00
+25,"Bruno Delbonnel",Avon,2322,10021,NULL,Stationery,"Cindy HMPOC Pencil Box (Multicolor)",400.00
+25,"Bruno Delbonnel",Avon,2322,10055,NULL,Bags,"HP ODC School Bag 2.5'",799.00
+25,"Bruno Delbonnel",Avon,2322,10021,NULL,"Kitchen Items","Phils Wah Collection Juicer JM12",2029.00
+25,"Bruno Delbonnel",Avon,2322,10021,NULL,Bags,"HP ODC Laptop Bag 15.5",3390.00
+25,"Bruno Delbonnel",Avon,2322,10029,NULL,Toys,"Cricket Set for Boys",4500.00
+25,"Bruno Delbonnel",Avon,2322,10021,NULL,Mobiles,"Samsung Galaxy On6",14000.00
+32,"Hans Zimmer",Milford,6776,10024,NULL,Computer,"External Hard Disk 500 GB",3500.00
+32,"Hans Zimmer",Milford,6776,10024,NULL,Electronics,"Sky LED 102 CM TV",35000.00
+37,"James Newton Howard",Birmingham,35235,10061,NULL,Computer,"Logtech M244 Optical Mouse",450.00
+33,"Niseema Zimmer",Milford,6776,10048,NULL,Toys,"Remote Control Car",2900.00
+40,"Paul Haggis",Hornell,14843,10053,NULL,"Kitchen Items","Sams 21L Microwave Oven",6880.00
+28,"Sayyed Faraj","W. Alibio",14411,10025,NULL,Clothes,"Ruf-n-Tuf Black PU Leather Belt",1050.00
+28,"Sayyed Faraj","W. Alibio",14411,10033,NULL,Bags,"Women Hand Bag",1600.00
+28,"Sayyed Faraj","W. Alibio",14411,10033,NULL,Stationery,"Solo Exam SB-01 Writing Pad",1750.00
+28,"Sayyed Faraj","W. Alibio",14411,10025,NULL,Toys,"Barbie Fab Gown Doll",2000.00
+18,"Suresh Babu",Hyderabad,517252,10063,NULL,Books,Alchemist,150.00
+18,"Suresh Babu",Hyderabad,517252,10063,NULL,Stationery,"TRANS 2D A4 Size Box File",600.00
+18,"Suresh Babu",Hyderabad,517252,10063,NULL,Bags,"Women Hand Bag",1600.00
+18,"Suresh Babu",Hyderabad,517252,10063,NULL,Bags,"HP ODC Laptop Bag 15.5",3390.00
+35,"Thomas Newman",Norwalk,6851,10064,NULL,Books,"Exam Warriors",100.00
+35,"Thomas Newman",Norwalk,6851,10064,NULL,Clothes,"Blue Jeans 34",1600.00
+11,"Vikas Jha",Hyderabad,517247,10018,NULL,Stationery,"Shell Fingertip Ball Pen",375.00
+11,"Vikas Jha",Hyderabad,517247,10056,NULL,Clothes,"Ruf-n-Tuf Black PU Leather Belt",700.00
+11,"Vikas Jha",Hyderabad,517247,10018,NULL,Stationery,"Cindy HMPOC Pencil Box (Multicolor)",1200.00
+11,"Vikas Jha",Hyderabad,517247,10018,NULL,"Kitchen Items","Solmo Hand Blender Fibre",1415.00
+11,"Vikas Jha",Hyderabad,517247,10018,NULL,"Kitchen Items","Solmo Non-stick Sandwich Maker 750 W",1625.00
+11,"Vikas Jha",Hyderabad,517247,10018,NULL,Bags,"HP ODC Laptop Bag 15.5",3390.00
+11,"Vikas Jha",Hyderabad,517247,10057,NULL,Toys,"Cricket Set for Boys",4500.00
+11,"Vikas Jha",Hyderabad,517247,10018,NULL,"Kitchen Items","Sams 21L Microwave Oven",6880.00
+11,"Vikas Jha",Hyderabad,517247,10018,NULL,Furnitures,"Foldable Premium Chair",24000.00
